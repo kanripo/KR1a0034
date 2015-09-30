@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易義海撮要
-#+DATE: 2015-09-23 09:34:26
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:54:38.194285
+#+PROPERTY: ID KR1a0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0034_WYG_002-1a>¶
 欽定四庫全書¶
 　周易義海撮要卷二　　　　宋　李衡　&KR0103;¶
@@ -1208,4 +1210,3 @@
 　者也梁鴻作五噫以顯宗之賢猶不能堪之非失之¶
 　過乎夫子不合者多矣進退无咎者君子之道也(朱/)¶
 　周易義海撮要卷二¶
-
